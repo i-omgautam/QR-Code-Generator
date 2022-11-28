@@ -1,3 +1,6 @@
+name='QR-Code-Generator'
+destination='https://i-omgautam.github.io/QR-Code-Generator/'
+
 from ctypes.wintypes import SIZE
 import tkinter as tk
 from tkinter import Button, PhotoImage, ttk
